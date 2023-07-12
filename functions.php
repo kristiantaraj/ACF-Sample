@@ -34,7 +34,7 @@ register_nav_menus(
 
     array(
 
-        'primary' => __('Main Menu', 'theme'),
+        'primary' => __('Test Menu', 'theme'),
         'footer_menu' => __('Footer Menu', 'theme'),
     )
 );
